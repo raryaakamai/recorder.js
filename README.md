@@ -1,4 +1,5 @@
-# recorder.js
+# video recorder javascript recorder.js
+Experimental browser module for recording contents of a <video> tag by taking dataURI snapshots of it.
 Web Based Video Recorder
 
 Standalone JS includes 
